@@ -21,7 +21,7 @@ body {
 .wrapper #globe {
     grid-area: 1 / 1 / 5 / 5;
     text-align: right;
-   background-color: black;
+   background-color: rgba(0, 0, 0, 0.274);
 }
 
 .wrapper .photos {
