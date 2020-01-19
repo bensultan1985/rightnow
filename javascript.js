@@ -13,6 +13,6 @@ const initMap = () => {
 
 
 
-globe = document.getElementById('map');
-globe.innerHTML = 'hi';
+//globe = document.getElementById('map');
+//globe.innerHTML = 'hi';
 
